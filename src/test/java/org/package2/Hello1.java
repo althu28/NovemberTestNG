@@ -124,7 +124,7 @@ public class Hello1 extends BaseClass {
 	
 	private void summa() {
 		
-		
+		System.out.println("Althaf");
 
 	}
 	
