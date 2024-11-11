@@ -122,4 +122,10 @@ public class Hello1 extends BaseClass {
 
 	}
 	
+	private void summa() {
+		
+		
+
+	}
+	
 }
